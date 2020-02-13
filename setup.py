@@ -39,7 +39,7 @@ requirements = [
 
 setup(
     # Metadata
-    name='insightface',
+    name='wyzeinsightfaceruntime',
     version=VERSION,
     author='InsightFace Contributors',
     url='https://github.com/deepinsight/insightface',
